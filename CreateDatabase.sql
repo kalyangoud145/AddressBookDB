@@ -1,5 +1,5 @@
 -- created address book database
-create database AddressBookServiceDB 
+CREATE DATABASE AddressBookServiceDB 
 -- switch to database
-use AddressBookServiceDB
+USE AddressBookServiceDB
 
